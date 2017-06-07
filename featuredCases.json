@@ -3,17 +3,17 @@
       {  
          "name":"Sport iPhone Case",
          "colour":"Heritage",
-         "image":"http://digital-logic.s3.amazonaws.com/gtl-demo/prod.jpg"
+         "image":"https://raw.githubusercontent.com/eliotharper/gtl-demo/master/images/prod.jpg"
       },
       {  
          "name":"iPhone Fold Wallet",
          "colour":"Smoke",
-         "image":"http://digital-logic.s3.amazonaws.com/gtl-demo/prod2.jpg"
+         "image":"https://raw.githubusercontent.com/eliotharper/gtl-demo/master/images/prod2.jpg"
       },
       {  
          "name":"Draw iPhone Case",
          "colour":"Stand / Heritage",
-         "image":"http://digital-logic.s3.amazonaws.com/gtl-demo/prod3.jpg"
+         "image":"https://raw.githubusercontent.com/eliotharper/gtl-demo/master/images/prod3.jpg"
       }
    ]
 }
