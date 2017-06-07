@@ -1,0 +1,19 @@
+{  
+   "cases":[  
+      {  
+         "name":"Sport iPhone Case",
+         "colour":"Heritage",
+         "image":"http://digital-logic.s3.amazonaws.com/gtl-demo/prod.jpg"
+      },
+      {  
+         "name":"iPhone Fold Wallet",
+         "colour":"Smoke",
+         "image":"http://digital-logic.s3.amazonaws.com/gtl-demo/prod2.jpg"
+      },
+      {  
+         "name":"Draw iPhone Case",
+         "colour":"Stand / Heritage",
+         "image":"http://digital-logic.s3.amazonaws.com/gtl-demo/prod3.jpg"
+      }
+   ]
+}
